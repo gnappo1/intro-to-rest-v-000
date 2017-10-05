@@ -1,1 +1,1 @@
-const app = "I don't do much.";
+const app = "Why do I exist?";
